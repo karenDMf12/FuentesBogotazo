@@ -34,15 +34,15 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 ### Fuentes
 
 1. Fuentes de texto
-* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. Recuperado de: 
+* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. [enlace en línea](http://kimera.com/data/redlocal/ver_demos/RLBVF/VERSION/RECURSOS/REFERENCIA%20ESCOLAR/2%20BIBLIOTECA%20BASICA%20COLOMBIANA/El_Bogotazo_BBCC_libro_59.pdf)  
 
 2. Fuentes de imagen
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Ruinas De Los Tranvías. 
-[Recuperado de](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0)
+[enlace en línea](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0)
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Destrucción Total. 
-[Recuperado de](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0)
+[enlace en línea](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0)
 * Rodriguez, Manuel H. (1948-1958).  El Bogotazo 9 De Abril De 1948 Ruinas Crr 7 Al Fondo Catedral. 
-[Recuperado de](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0)
+[enlace en línea](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0)
 
 3. Fuentes audiovisuales
 * RTVC, (2018). El bogotazo, serie. Recuperado de: https://www.rtvcplay.co/series/el-bogotazo
