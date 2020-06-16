@@ -8,13 +8,22 @@ El bogotazo es un hecho que atraviesa la historia de Bogotá y sigue estando pre
 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0)
 
+
+
+
 Fotografía de la Biblioteca Nacional de Colombia en la cual se pueden observar los restos calcinados del Tranvía del centro de la capital días después del 9 de abril.
 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0)
 
+
+
+
 Fotografía del catálogo de la Biblioteca Nacional de Colombia, allí se pueden ver las ruinas de una edificación del centro de la ciudad tras los acontecimientos del 9 de abril de 1948.
 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0)
+
+
+
 
 Fotografia del catálogo de la Biblioteca Nacional de Colombia, se observan los edificos destruidos  sobre la carrera septima en Bogota.  
 
@@ -23,7 +32,7 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 [Bogotazo - historia en imagenes del archivo de RTVC](https://www.youtube.com/watch?v=WxX5FrS_7qQ)
 ### Fuentes
 1. Fuentes de texto
-* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. [Recuperado de] (http://kimera.com/data/redlocal/ver_demos/RLBVF/VERSION/RECURSOS/REFERENCIA%20ESCOLAR/2%20BIBLIOTECA%20BASICA%20COLOMBIANA/El_Bogotazo_BBCC_libro_59.pdf)
+* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. Recuperado de (http://kimera.com/data/redlocal/ver_demos/RLBVF/VERSION/RECURSOS/REFERENCIA%20ESCOLAR/2%20BIBLIOTECA%20BASICA%20COLOMBIANA/El_Bogotazo_BBCC_libro_59.pdf) 
 2. Fuentes de imagen
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Ruinas De Los Tranvías. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Destrucción Total. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0
@@ -31,12 +40,12 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 3. Fuentes audiovisuales
 * RTVC, (2018). El bogotazo, serie. Recuperado de: https://www.rtvcplay.co/series/el-bogotazo
 ### Motores de busqueda
-- https://archive.org/web/WayBack Machine es una página para rastrear el pasado de las páginas de internet.
-- https://www.eltiempo.com/impreso/noticias Aquí encuentran los periódicos impresos de 1911-2007
-- https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/bd Colección digitalizada de la Biblioteca Nacional de Colombia
-- https://www.archivogeneral.gov.co/consulte/fondos-documentales Fondos documentales del Archivo General de la Nación
-- http://pares.culturaydeporte.gob.es/inicio.html Archivos Españoles en Red
--  https://www.banrepcultural.org/biblioteca-virtual/credencial-historiaRevista Credencial Historia 
--  https://www.rtvcplay.co/ Contenidos audiovisuales de todas las producciones de RTVC
+- (https://archive.org/web/WayBack) Machine es una página para rastrear el pasado de las páginas de internet.
+- (https://www.eltiempo.com/impreso/noticias) Aquí encuentran los periódicos impresos de 1911-2007
+- (https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/bd) Colección digitalizada de la Biblioteca Nacional de Colombia
+- (https://www.archivogeneral.gov.co/consulte/fondos-documentales) Fondos documentales del Archivo General de la Nación
+- (http://pares.culturaydeporte.gob.es/inicio.html) Archivos Españoles en Red
+- (https://www.banrepcultural.org/biblioteca-virtual/credencial-historiaRevista) Credencial Historia 
+- (https://www.rtvcplay.co/) Contenidos audiovisuales de todas las producciones de RTVC
 
 
