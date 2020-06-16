@@ -40,7 +40,7 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 3. Fuentes audiovisuales
 * RTVC, (2018). El bogotazo, serie. Recuperado de: https://www.rtvcplay.co/series/el-bogotazo
 ### Motores de busqueda
-- Machine es una página para rastrear el pasado de las páginas de internet. [link]: https://archive.org/web/
+- [Machine es una página para rastrear el pasado de las páginas de internet](https://archive.org/web/)
 - (https://www.eltiempo.com/impreso/noticias) Aquí encuentran los periódicos impresos de 1911-2007
 - (https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/bd) Colección digitalizada de la Biblioteca Nacional de Colombia
 - (https://www.archivogeneral.gov.co/consulte/fondos-documentales) Fondos documentales del Archivo General de la Nación
