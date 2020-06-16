@@ -7,12 +7,15 @@ Los recursos virtuales pueden llegar a ser útiles al momento de investigar un f
 El bogotazo es un hecho que atraviesa la historia de Bogotá y sigue estando presente en la memoria de muchos(as), el 9 de abril fue declarado Día nacional de la memoria y la solidaridad con las víctimas. El asesinato de Jorge Eliécer Gaitán caudillo electoral de aquella época, quien representaba para algunas un cambio significativo en la política, desató fuertes disturbios en el centro de la capital colombiana, existen diferentes teorías e hipótesis que dan cuenta de lo sucedido en aquellos días. ¿Es posible encontrar diferentes fuentes digitales que relaten lo sucedido en el 48? ¿Cuales sitios se podrían visitar? a continuación compartimos con ustedes diferentes fuentes que encontramos para nutrir, contrastar y comprender este hecho histórico.    
 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0)
+
 Fotografía de la Biblioteca Nacional de Colombia en la cual se pueden observar los restos calcinados del Tranvía del centro de la capital días después del 9 de abril.
 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0)
+
 Fotografía del catálogo de la Biblioteca Nacional de Colombia, allí se pueden ver las ruinas de una edificación del centro de la ciudad tras los acontecimientos del 9 de abril de 1948.
 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0)
+
 Fotografia del catálogo de la Biblioteca Nacional de Colombia, se observan los edificos destruidos  sobre la carrera septima en Bogota.  
 
 ### Archivo videografico
@@ -20,7 +23,7 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 [Bogotazo - historia en imagenes del archivo de RTVC](https://www.youtube.com/watch?v=WxX5FrS_7qQ)
 ### Fuentes
 1. Fuentes de texto
-* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. Recuperado de: (https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/132767/0v)
+* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. [Recuperado de] (http://kimera.com/data/redlocal/ver_demos/RLBVF/VERSION/RECURSOS/REFERENCIA%20ESCOLAR/2%20BIBLIOTECA%20BASICA%20COLOMBIANA/El_Bogotazo_BBCC_libro_59.pdf)
 2. Fuentes de imagen
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Ruinas De Los Tranvías. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Destrucción Total. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0
