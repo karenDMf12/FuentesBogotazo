@@ -45,7 +45,7 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 [enlace en línea](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0)
 
 3. Fuentes audiovisuales
-* RTVC, (2018). El bogotazo, serie. Recuperado de: https://www.rtvcplay.co/series/el-bogotazo
+* RTVC, (2018). El bogotazo, serie. [enlace en línea](https://www.rtvcplay.co/series/el-bogotazo)
 
 ### Motores de busqueda
 
