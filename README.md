@@ -34,7 +34,7 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 1. Fuentes de texto
 * Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. Recuperado de: 
 2. Fuentes de imagen
-* Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Ruinas De Los Tranvías. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0
+* Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Ruinas De Los Tranvías. [Recuperado de](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0)
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Destrucción Total. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0
 * Rodriguez, Manuel H. (1948-1958).  El Bogotazo 9 De Abril De 1948 Ruinas Crr 7 Al Fondo Catedral. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0
 3. Fuentes audiovisuales
