@@ -1,4 +1,4 @@
-##   PROPUESTA DE INVESTIGACION
+##   NAVENGANDO A TRAVÉS DEL BOGOTAZO
 ### Pregunta de investigacion
 ¿Cómo reconstruir una historia del bogotazo a partir de diferentes fuentes virtuales?
 ### Hipotesis
@@ -20,7 +20,7 @@ Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, 
 [Bogotazo - historia en imagenes del archivo de RTVC](https://www.youtube.com/watch?v=WxX5FrS_7qQ)
 ### Fuentes
 1. Fuentes de texto
-* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. Recuperado de: [https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/132767/0v  ]
+* Alape, Arturo. (1983). El bogotazo : memorias del olvido. Bogotá: Universidad Central. Recuperado de: [(https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/132767/0v)]
 2. Fuentes de imagen
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Ruinas De Los Tranvías. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95170/0
 * Rodriguez, Manuel H. (1948-1958). El Bogotazo 9 De Abril De 1948 Destrucción Total. Recuperado de: https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0
